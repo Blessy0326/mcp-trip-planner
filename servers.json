@@ -1,0 +1,5 @@
+{
+  "weather":  { "script": "servers/weather_server.py" },
+  "places":   { "script": "servers/places_server.py" },
+  "calendar": { "script": "servers/calendar_server.py" }
+}

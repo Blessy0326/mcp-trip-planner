@@ -1,0 +1,15 @@
+[
+  {"id": "muc-deutsches-museum", "city": "Munich", "name": "Deutsches Museum", "setting": "indoor", "category": "museum", "duration_hours": 3, "description": "Huge science and technology museum on an island in the Isar."},
+  {"id": "muc-alte-pinakothek", "city": "Munich", "name": "Alte Pinakothek", "setting": "indoor", "category": "museum", "duration_hours": 2, "description": "Art museum with European old masters."},
+  {"id": "muc-bmw-welt", "city": "Munich", "name": "BMW Welt", "setting": "indoor", "category": "sightseeing", "duration_hours": 1.5, "description": "Car showroom and exhibition space next to the Olympiapark."},
+  {"id": "muc-nymphenburg", "city": "Munich", "name": "Nymphenburg Palace", "setting": "indoor", "category": "history", "duration_hours": 2, "description": "Baroque palace; the park around it is nice in good weather."},
+  {"id": "muc-englischer-garten", "city": "Munich", "name": "Englischer Garten", "setting": "outdoor", "category": "park", "duration_hours": 2, "description": "Large city park with the Eisbach surfers and a beer garden."},
+  {"id": "muc-viktualienmarkt", "city": "Munich", "name": "Viktualienmarkt", "setting": "outdoor", "category": "food", "duration_hours": 1, "description": "Open-air food market in the old town."},
+  {"id": "muc-olympiapark", "city": "Munich", "name": "Olympiapark", "setting": "outdoor", "category": "park", "duration_hours": 2, "description": "1972 Olympic grounds with a hill that has a city view."},
+
+  {"id": "nue-gnm", "city": "Nuremberg", "name": "Germanisches Nationalmuseum", "setting": "indoor", "category": "museum", "duration_hours": 3, "description": "Large museum of German art and cultural history."},
+  {"id": "nue-db-museum", "city": "Nuremberg", "name": "DB Museum", "setting": "indoor", "category": "museum", "duration_hours": 2, "description": "German railway history museum."},
+  {"id": "nue-kaiserburg", "city": "Nuremberg", "name": "Kaiserburg", "setting": "outdoor", "category": "history", "duration_hours": 1.5, "description": "Medieval castle above the old town; mostly walking outside."},
+  {"id": "nue-hauptmarkt", "city": "Nuremberg", "name": "Hauptmarkt", "setting": "outdoor", "category": "sightseeing", "duration_hours": 0.5, "description": "Main market square with the Schöner Brunnen fountain."},
+  {"id": "nue-zoo", "city": "Nuremberg", "name": "Tiergarten Nürnberg", "setting": "outdoor", "category": "nature", "duration_hours": 3, "description": "Zoo set in a forested landscape."}
+]
